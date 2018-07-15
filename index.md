@@ -16,3 +16,9 @@ Self-sponsored projects:
 - http://rebudget.khanhhua.com/
 - http://opentalk.khanhhua.com/
 - http://biblequiz.khanhhua.com/
+
+## DO YOU KNOW ME PERSONALLY?
+
+I have quit Facebook in protest of the company's recent privacy overreach and suppression of Internet free speech. Therefore I have authored a small app to stay connected with my Facebook friends (ironically, that means I have to create a Facebook app).
+
+Click on this link #[Khanh Hua's friends](http://www.khanhhua.com/friends.html)
