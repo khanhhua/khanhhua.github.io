@@ -1,7 +1,8 @@
 ---
 title: Khanh Hua's Friends
 layout: friends
-fbAppId: 2224000524511713;
+fbAppId: 2224000524511713
+socialiteVersion: 0.1.4
 ---
 
 # Khanh Hua's Friends
