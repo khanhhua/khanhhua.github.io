@@ -1,7 +1,7 @@
-----
+---
 title: Khanh Hua's Friends
 layout: friends
-----
+---
 
 # Khanh Hua's Friends
 
