@@ -1,6 +1,12 @@
 ## PROFILE
 Enthusiastic problem solver. Enjoy thinking out-of-the box. Ambitious and willing to learn new tools and programming languages. An innovator who sees opportunities in technological challenges. A critical thinker. A perfectionist. A performance minded software designer. A mobile-first front end developer. A goal oriented professional. Enjoy TDD. Effectively proposes full-stack software solutions on top of MEAN stack, LAMPython stack. Eager to develop enterprise class products, real-time social apps and games. Interested in big data and machine learning. 
 
+## NETWORKS
+
+- LinkedIn: http://linkedin.com/in/khanhhua/
+- GitHub: https://github.com/khanhhua
+- StackOverflow: https://stackoverflow.com/users/325987/khanh-hua
+
 ## CONTACT
 
 Email: giakhanh2487@gmail.com
