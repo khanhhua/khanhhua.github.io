@@ -3,6 +3,7 @@ description: Full Stack Web Developer
 google_analytics: UA-30341572-6
 show_downloads: false
 theme: jekyll-theme-minimal
+photo: /images/selfie-german-cv-200x200.jpg
 
 gems:
   - jekyll-mentions
