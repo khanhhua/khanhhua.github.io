@@ -1,7 +1,7 @@
 title: Khanh Hua
 description: Full Stack Web Developer
 google_analytics: UA-30341572-6
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
