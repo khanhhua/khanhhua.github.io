@@ -3,9 +3,9 @@ Enthusiastic problem solver. Enjoy thinking out-of-the box. Ambitious and willin
 
 ## NETWORKS
 
-- LinkedIn: http://linkedin.com/in/khanhhua/
-- GitHub: https://github.com/khanhhua
-- StackOverflow: https://stackoverflow.com/users/325987/khanh-hua
+- LinkedIn: [https://linkedin.com/in/khanhhua/](https://linkedin.com/in/khanhhua/)
+- GitHub: [https://github.com/khanhhua](https://github.com/khanhhua)
+- StackOverflow: [https://stackoverflow.com/users/325987/khanh-hua](https://stackoverflow.com/users/325987/khanh-hua)
 
 ## CONTACT
 
@@ -18,10 +18,10 @@ Websites:
 
 Self-sponsored projects:
 
-- http://singsolo.mobi
-- http://rebudget.khanhhua.com/
-- http://opentalk.khanhhua.com/
-- http://biblequiz.khanhhua.com/
+- [http://singsolo.mobi](http://singsolo.mobi)
+- [http://rebudget.khanhhua.com/](http://rebudget.khanhhua.com/)
+- [http://opentalk.khanhhua.com/](http://opentalk.khanhhua.com/)
+- [http://biblequiz.khanhhua.com/](http://biblequiz.khanhhua.com/)
 
 ## DO YOU KNOW ME PERSONALLY?
 
