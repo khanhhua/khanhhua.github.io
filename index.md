@@ -13,7 +13,7 @@ Email: giakhanh2487@gmail.com
 
 Websites:
 
-- http://blog.fatmandesigner.com
+- [http://blog.fatmandesigner.com](http://blog.fatmandesigner.com)
 - http://www.khanhhua.com (You are here)
 
 Self-sponsored projects:
