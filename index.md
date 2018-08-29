@@ -19,6 +19,7 @@ Websites:
 Self-sponsored projects:
 
 - [http://singsolo.mobi](http://singsolo.mobi)
+- [https://github.com/khanhhua/formula1js](https://github.com/khanhhua/formula1js)
 - [https://runexcelformula.herokuapp.com/](https://runexcelformula.herokuapp.com/)
 - [http://rebudget.khanhhua.com/](http://rebudget.khanhhua.com/)
 - [http://opentalk.khanhhua.com/](http://opentalk.khanhhua.com/)
