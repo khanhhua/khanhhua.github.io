@@ -19,6 +19,7 @@ Websites:
 Self-sponsored projects:
 
 - [http://singsolo.mobi](http://singsolo.mobi)
+- [https://runexcelformula.herokuapp.com/](https://runexcelformula.herokuapp.com/)
 - [http://rebudget.khanhhua.com/](http://rebudget.khanhhua.com/)
 - [http://opentalk.khanhhua.com/](http://opentalk.khanhhua.com/)
 - [http://biblequiz.khanhhua.com/](http://biblequiz.khanhhua.com/)
