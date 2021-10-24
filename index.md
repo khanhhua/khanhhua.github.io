@@ -13,12 +13,13 @@ Email: [giakhanh2487@gmail.com](mailto:giakhanh2487@gmail.com)
 
 Websites:
 
-- [https://www.fatmandesigner.com](http://blog.fatmandesigner.com)
-- http://www.khanhhua.com (You are here)
+- [https://www.fatmandesigner.com](https://www.fatmandesigner.com)
+- https://www.khanhhua.com (You are here)
 
 Self-sponsored projects:
 
-- [http://singsolo.mobi](http://singsolo.mobi)
+- [https://pokedex.khanhhua.com](Pokedex - powered by Elm)
+- [http://singsolo.mobi](http://singsolo.mobi) (No longer available)
 - [https://github.com/khanhhua/formula1js](https://github.com/khanhhua/formula1js)
 - [https://runexcelformula.herokuapp.com/](https://runexcelformula.herokuapp.com/)
 - [http://rebudget.khanhhua.com/](http://rebudget.khanhhua.com/)
