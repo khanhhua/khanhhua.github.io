@@ -18,7 +18,7 @@ Websites:
 
 Self-sponsored projects:
 
-- [https://pokedex.khanhhua.com](Pokedex - powered by Elm)
+- [Pokedex - powered by Elm](https://pokedex.khanhhua.com)
 - [http://singsolo.mobi](http://singsolo.mobi) (No longer available)
 - [https://github.com/khanhhua/formula1js](https://github.com/khanhhua/formula1js)
 - [https://runexcelformula.herokuapp.com/](https://runexcelformula.herokuapp.com/)
