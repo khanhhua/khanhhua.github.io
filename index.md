@@ -9,7 +9,7 @@ Enthusiastic problem solver. Enjoy thinking out-of-the box. Ambitious and willin
 
 ## CONTACT
 
-Email: [giakhanh2487@gmail.com](mailto:giakhanh2487@gmail.com)
+Email: (has been removed for privacy reason)
 
 Websites:
 
