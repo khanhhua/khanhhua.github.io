@@ -3,7 +3,7 @@ Enthusiastic problem solver. Enjoy thinking outside the box. Ambitious and willi
 
 ## NETWORKS
 
-- LinkedIn: [https://linkedin.com/in/khanhhua/](https://linkedin.com/in/khanhhua/)
+- Xing: [https://www.xing.com/profile/Khanh_Hua](https://www.xing.com/profile/Khanh_Hua)
 - GitHub: [https://github.com/khanhhua](https://github.com/khanhhua)
 - StackOverflow: [https://stackoverflow.com/users/325987/khanh-hua](https://stackoverflow.com/users/325987/khanh-hua)
 
